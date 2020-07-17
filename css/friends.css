@@ -3,6 +3,7 @@
   border-top: 1px solid #f7f7f7;
   border-bottom: 1px solid #f7f7f7;
   margin: 20px 0px;
+  cursor: pointer;
 }
 
 .friends__plus .friends__title {
