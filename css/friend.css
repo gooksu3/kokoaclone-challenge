@@ -70,3 +70,24 @@
 .chat {
   margin-bottom: 20px;
 }
+
+.friend-imgpack {
+  width: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-right: 15px;
+}
+
+.friend-imgpack__s-avatar {
+  width: 23px;
+  height: 23px;
+  border: 1.5px solid #f7f7f7;
+  border-radius: 8px;
+  margin: 1px;
+}
+
+.friend-imgpack__s-avatar:last-child {
+  border: none;
+}

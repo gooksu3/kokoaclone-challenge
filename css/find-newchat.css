@@ -8,15 +8,6 @@
   box-sizing: border-box;
 }
 
-@keyframes find-newchatAni {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
 .find-newchat__status-bar {
   top: 0px;
   left: 0px;
